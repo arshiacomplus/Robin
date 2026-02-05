@@ -1,0 +1,8 @@
+vless://6a2492c2-8a39-4942-b2e4-16dc5a2f00db@ip-range-tehran.gilas.name.ng:2082?path=%2F&security=none&encryption=none&host=de3-cdn-jd93o2ks.co.kavaka.crisis.name.ng&type=ws#Poland
+vless://d5b27077-1693-4f88-b102-2e1c96d9fcc2@ip-range-tehran.gilas.name.ng:2082?path=%2F&security=none&encryption=none&host=de3-cdn-jd93o2ks.co.kavaka.crisis.name.ng&type=ws#United+Kingdom
+vless://5959a692-169f-4533-b139-df9e0401ea28@ip-range-tehran.gilas.name.ng:2082?path=%2F&security=none&encryption=none&host=de3-cdn-jd93o2ks.co.kavaka.crisis.name.ng&type=ws#Canada
+vless://f9e7cf0b-59f3-4900-a545-1ddde62c47ae@ip-range-tehran.gilas.name.ng:2082?path=%2F&security=none&encryption=none&host=de3-cdn-jd93o2ks.co.kavaka.crisis.name.ng&type=ws#Spain
+vless://c12bc8ca-af0f-42c4-9f86-8d6e8c0a4ae1@ip-range-tehran.gilas.name.ng:2082?path=%2F&security=none&encryption=none&host=de3-cdn-jd93o2ks.co.kavaka.crisis.name.ng&type=ws#United+States
+vless://f8000636-d46b-467f-9894-4cf0820dd2ac@ip-range-tehran.gilas.name.ng:2082?path=%2F&security=none&encryption=none&host=de3-cdn-jd93o2ks.co.kavaka.crisis.name.ng&type=ws#Sweden
+vless://0fe6b311-a23a-4b93-b235-1e28200e4d37@ip-range-tehran.gilas.name.ng:2082?path=%2F&security=none&encryption=none&host=de3-cdn-jd93o2ks.co.kavaka.crisis.name.ng&type=ws#Hungary
+vless://205062b7-1a3d-4075-ace5-baf8319196ae@85.133.250.206:2095?type=tcp&path=%2F&host=fast.com&headerType=http#India
