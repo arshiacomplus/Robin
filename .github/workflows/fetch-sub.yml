@@ -23,10 +23,11 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests
+          pip install curl_cffi
 
       - name: Fetch config and update sub.txt
         run: |
+          # اطمینان از وجود پوشه اسکریپت
           python scripts/fetch_sub.py
 
       - name: Commit and push changes
@@ -34,5 +35,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add sub.txt
-          git commit -m "auto: update subscription" || echo "No changes to commit"
+          git commit -m "auto: update subscription via curl_cffi" || echo "No changes to commit"
           git push
